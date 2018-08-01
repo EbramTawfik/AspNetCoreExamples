@@ -1,0 +1,11 @@
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\bin\Debug\netcoreapp2.0\RazorSyntax.deps.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\bin\Debug\netcoreapp2.0\RazorSyntax.runtimeconfig.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\bin\Debug\netcoreapp2.0\RazorSyntax.runtimeconfig.dev.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\bin\Debug\netcoreapp2.0\RazorSyntax.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\obj\Debug\netcoreapp2.0\RazorSyntax.csprojResolveAssemblyReference.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\obj\Debug\netcoreapp2.0\RazorSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\obj\Debug\netcoreapp2.0\RazorSyntax.AssemblyInfoInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\obj\Debug\netcoreapp2.0\RazorSyntax.AssemblyInfo.cs
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\bin\Debug\netcoreapp2.0\RazorSyntax.pdb
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\obj\Debug\netcoreapp2.0\RazorSyntax.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\AspNetCoreExamples\RazorSyntax\obj\Debug\netcoreapp2.0\RazorSyntax.pdb
