@@ -1,0 +1,11 @@
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\bin\Debug\netcoreapp2.0\HTMLHelperExample.deps.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\bin\Debug\netcoreapp2.0\HTMLHelperExample.runtimeconfig.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\bin\Debug\netcoreapp2.0\HTMLHelperExample.runtimeconfig.dev.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\bin\Debug\netcoreapp2.0\HTMLHelperExample.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\obj\Debug\netcoreapp2.0\HTMLHelperExample.csprojResolveAssemblyReference.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\obj\Debug\netcoreapp2.0\HTMLHelperExample.csproj.CoreCompileInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\obj\Debug\netcoreapp2.0\HTMLHelperExample.AssemblyInfoInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\obj\Debug\netcoreapp2.0\HTMLHelperExample.AssemblyInfo.cs
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\bin\Debug\netcoreapp2.0\HTMLHelperExample.pdb
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\obj\Debug\netcoreapp2.0\HTMLHelperExample.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperExample\obj\Debug\netcoreapp2.0\HTMLHelperExample.pdb

@@ -13131,11 +13131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abraam\\source\\repos\\AspNetCoreExamples\\Git\\RazorSyntax\\RazorSyntax.csproj",
-      "projectName": "RazorSyntax",
-      "projectPath": "C:\\Users\\Abraam\\source\\repos\\AspNetCoreExamples\\Git\\RazorSyntax\\RazorSyntax.csproj",
+      "projectUniqueName": "C:\\Users\\Abraam\\source\\repos\\AspNetCoreExamples\\Git\\HTMLHelperExample\\HTMLHelperExample.csproj",
+      "projectName": "HTMLHelperExample",
+      "projectPath": "C:\\Users\\Abraam\\source\\repos\\AspNetCoreExamples\\Git\\HTMLHelperExample\\HTMLHelperExample.csproj",
       "packagesPath": "C:\\Users\\Abraam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abraam\\source\\repos\\AspNetCoreExamples\\Git\\RazorSyntax\\obj\\",
+      "outputPath": "C:\\Users\\Abraam\\source\\repos\\AspNetCoreExamples\\Git\\HTMLHelperExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
