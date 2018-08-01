@@ -1,0 +1,11 @@
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\bin\Debug\netcoreapp2.0\LayoutViewExample.deps.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\bin\Debug\netcoreapp2.0\LayoutViewExample.runtimeconfig.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\bin\Debug\netcoreapp2.0\LayoutViewExample.runtimeconfig.dev.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\bin\Debug\netcoreapp2.0\LayoutViewExample.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\obj\Debug\netcoreapp2.0\LayoutViewExample.csprojResolveAssemblyReference.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\obj\Debug\netcoreapp2.0\LayoutViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\obj\Debug\netcoreapp2.0\LayoutViewExample.AssemblyInfoInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\obj\Debug\netcoreapp2.0\LayoutViewExample.AssemblyInfo.cs
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\bin\Debug\netcoreapp2.0\LayoutViewExample.pdb
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\obj\Debug\netcoreapp2.0\LayoutViewExample.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\LayoutViewExample\obj\Debug\netcoreapp2.0\LayoutViewExample.pdb
