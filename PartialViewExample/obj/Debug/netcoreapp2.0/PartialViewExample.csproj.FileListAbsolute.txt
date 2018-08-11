@@ -1,0 +1,11 @@
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\bin\Debug\netcoreapp2.0\PartialViewExample.deps.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\bin\Debug\netcoreapp2.0\PartialViewExample.runtimeconfig.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\bin\Debug\netcoreapp2.0\PartialViewExample.runtimeconfig.dev.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\bin\Debug\netcoreapp2.0\PartialViewExample.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\bin\Debug\netcoreapp2.0\PartialViewExample.pdb
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\obj\Debug\netcoreapp2.0\PartialViewExample.csprojResolveAssemblyReference.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\obj\Debug\netcoreapp2.0\PartialViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\obj\Debug\netcoreapp2.0\PartialViewExample.AssemblyInfoInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\obj\Debug\netcoreapp2.0\PartialViewExample.AssemblyInfo.cs
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\obj\Debug\netcoreapp2.0\PartialViewExample.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\PartialViewExample\obj\Debug\netcoreapp2.0\PartialViewExample.pdb
