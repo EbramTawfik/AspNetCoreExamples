@@ -1,0 +1,11 @@
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\bin\Debug\netcoreapp2.0\HTMLHelperForTable.deps.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\bin\Debug\netcoreapp2.0\HTMLHelperForTable.runtimeconfig.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\bin\Debug\netcoreapp2.0\HTMLHelperForTable.runtimeconfig.dev.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\bin\Debug\netcoreapp2.0\HTMLHelperForTable.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\obj\Debug\netcoreapp2.0\HTMLHelperForTable.csprojResolveAssemblyReference.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\obj\Debug\netcoreapp2.0\HTMLHelperForTable.csproj.CoreCompileInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\obj\Debug\netcoreapp2.0\HTMLHelperForTable.AssemblyInfoInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\obj\Debug\netcoreapp2.0\HTMLHelperForTable.AssemblyInfo.cs
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\bin\Debug\netcoreapp2.0\HTMLHelperForTable.pdb
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\obj\Debug\netcoreapp2.0\HTMLHelperForTable.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\HTMLHelperForTable\obj\Debug\netcoreapp2.0\HTMLHelperForTable.pdb
