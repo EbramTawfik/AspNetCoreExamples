@@ -1,0 +1,11 @@
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\bin\Debug\netcoreapp2.0\ProductManagerProject.deps.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\bin\Debug\netcoreapp2.0\ProductManagerProject.runtimeconfig.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\bin\Debug\netcoreapp2.0\ProductManagerProject.runtimeconfig.dev.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\bin\Debug\netcoreapp2.0\ProductManagerProject.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\bin\Debug\netcoreapp2.0\ProductManagerProject.pdb
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\obj\Debug\netcoreapp2.0\ProductManagerProject.csprojResolveAssemblyReference.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\obj\Debug\netcoreapp2.0\ProductManagerProject.csproj.CoreCompileInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\obj\Debug\netcoreapp2.0\ProductManagerProject.AssemblyInfoInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\obj\Debug\netcoreapp2.0\ProductManagerProject.AssemblyInfo.cs
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\obj\Debug\netcoreapp2.0\ProductManagerProject.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\ProductManagerProject\obj\Debug\netcoreapp2.0\ProductManagerProject.pdb
