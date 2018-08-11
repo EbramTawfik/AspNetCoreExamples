@@ -1,0 +1,11 @@
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\bin\Debug\netcoreapp2.0\UploadingFilesExample.deps.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\bin\Debug\netcoreapp2.0\UploadingFilesExample.runtimeconfig.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\bin\Debug\netcoreapp2.0\UploadingFilesExample.runtimeconfig.dev.json
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\bin\Debug\netcoreapp2.0\UploadingFilesExample.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\bin\Debug\netcoreapp2.0\UploadingFilesExample.pdb
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\obj\Debug\netcoreapp2.0\UploadingFilesExample.csprojResolveAssemblyReference.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\obj\Debug\netcoreapp2.0\UploadingFilesExample.csproj.CoreCompileInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\obj\Debug\netcoreapp2.0\UploadingFilesExample.AssemblyInfoInputs.cache
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\obj\Debug\netcoreapp2.0\UploadingFilesExample.AssemblyInfo.cs
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\obj\Debug\netcoreapp2.0\UploadingFilesExample.dll
+C:\Users\Abraam\source\repos\AspNetCoreExamples\Git\UploadingFilesExample\obj\Debug\netcoreapp2.0\UploadingFilesExample.pdb
